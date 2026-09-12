@@ -1,14 +1,1 @@
-[
-    {
-        "student_id": 101,
-        "name": "aditi",
-        "age": 23,
-        "course": "MCA",
-        "marks": {
-            "Python": 85.0,
-            "Java": 80.0,
-            "DBMS": 90.0,
-            "DSA": 88.0
-        }
-    }
-]
+[]

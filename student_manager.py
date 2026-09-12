@@ -127,4 +127,4 @@ class StudentManager:
 
         self.save_students()
 
-print("Student deleted successfully.")
+    print("Student deleted successfully.")
